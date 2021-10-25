@@ -1,0 +1,4 @@
+test af valg;REJECTED
+test2;REJECTED
+der er ikke mere kaffe;APPROVED
+2;APPROVED
